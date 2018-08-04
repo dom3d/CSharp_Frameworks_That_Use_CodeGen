@@ -2,7 +2,7 @@
 There is the perception that code gen in C# is an edge case need. I don't think so. The need is high where performance or simplicity of APIs matter. Often found in the context of reactive systems, remote execution, non OOP approaches or AOT requirements.
 
 ## Entitas
-It's pretty much at the code of the solution.
+It's pretty much at the core of the solution.
 https://github.com/sschmid/Entitas-CSharp
 
 ## ProtoActor-dotnet
